@@ -1,4 +1,3 @@
-```markdown
 # BOOK_LOOKS 📚
 A machine learning project aimed at classifying books into their primary genres based on their descriptions. This repository includes data preprocessing, model training, and a working Streamlit application to demonstrate the project.  
 
@@ -82,5 +81,5 @@ This project is licensed under the MIT License.
 ---
 
 Enjoy exploring **BOOK_LOOKS** and feel free to share feedback! 😊  
-```
+
 
