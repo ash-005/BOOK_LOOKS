@@ -1,5 +1,3 @@
-Here’s a template for your GitHub repository’s README file:
-
 ```markdown
 # BOOK_LOOKS 📚
 A machine learning project aimed at classifying books into their primary genres based on their descriptions. This repository includes data preprocessing, model training, and a working Streamlit application to demonstrate the project.  
